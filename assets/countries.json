@@ -1,0 +1,55 @@
+{
+    "countries": [
+      {
+        "name": "United States",
+        "capital": "Washington, D.C.",
+        "capitalImage": "./assets/images/1.ipg"
+      },
+      {
+        "name": "United Kingdom",
+        "capital": "London",
+        "capitalImage": "./assets/images/london.jpg"
+      },
+      {
+        "name": "France",
+        "capital": "Paris",
+        "capitalImage": "./assets/images/paris.jpg"
+      },
+      {
+        "name": "Germany",
+        "capital": "Berlin",
+        "capitalImage": "./assets/images/berlin.jpg"
+      },
+      {
+        "name": "China",
+        "capital": "Beijing",
+        "capitalImage": "./assets/images/beijing.jpg"
+      },
+      {
+        "name": "Pakistan",
+        "capital": "Islamabad",
+        "capitalImage": "./assets/images/islamabad.jpg"
+      },
+      {
+        "name": "Brazil",
+        "capital": "Brasília",
+        "capitalImage": "./assets/images/brasilia.jpg"
+      },
+      {
+        "name": "Russia",
+        "capital": "Moscow",
+        "capitalImage": "./assets/images/moscow.jpg"
+      },
+      {
+        "name": "Japan",
+        "capital": "Tokyo",
+        "capitalImage": "./assets/images/tokyo.jpg"
+      },
+      {
+        "name": "Italy",
+        "capital": "Rome",
+        "capitalImage": "./assets/images/rome.jpg"
+      }
+    ]
+  }
+  
